@@ -1,0 +1,486 @@
+<html>
+<head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+  <meta content="width=device-width" name="viewport">
+</head>
+<body>
+  <style>
+    body{margin: 0;padding: 0;}
+    table a{
+      color:#ff0c99 !important;
+      text-decoration:none !important;
+    }
+    table #contactsupply a {
+      color:#000 !important;
+    }
+    @media (max-width: 620px) {
+      table {
+        width:100%;
+      }
+    }
+  </style>
+  <table width="600" border="0" height="auto" align="center" style="font-family:Arial, Helvetica Neue, Helvetica, sans-serif;">
+    <tbody>
+      <tr valign="top" style="vertical-align: top;">
+        <td align="center" style="padding-top: 15px; padding-bottom: 5px;">
+          <img align="center" alt="Image" border="0" class="center fixedwidth fullwidthOnMobile" src="https://switchboo.com/assets/images/switchboo_pink.png" style="text-decoration: none; -ms-interpolation-mode: bicubic; border: 0; height: auto; width: 90%; max-width: 330px; display: block;" title="Image" width="330">
+        </td>
+      </tr>
+      <tr>
+        <td align="left" style="font-size: 15px;padding-top:10px; padding-right:10px; padding-left:10px; padding-bottom:25px; margin:0px;">
+          <p style="color:#000000;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;">
+          Thank you for switching your energy with Switchboo. We calculate that you'll save <strong style="font-size: 15px; color: #ff0c99;">&pound;#PRICE#</strong> on your energy bills over the next year with your new supplier.
+        </p>
+
+        <p style="color: #ff0c99;  font-size: 16px;  line-height: 1.2; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;margin-top: 25px;margin-bottom:30px;">
+            <strong>Switch reference number: #referencenumber#</strong>
+          </p>
+
+    <table align="left" colspan="4" width="600" border="0" cellspacing="0" cellpadding="0">
+        <tbody>
+          <tr style="border:0px solid #ccc; background-color: #ff0c99;">
+            <th colspan="10" align="left" style="color:#555555;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;padding-top:20px;padding-right:10px;padding-bottom:20px;padding-left:10px;">
+              <p style="font-size: 15px;line-height: 1.2;word-break: break-word;mso-line-height-alt: 17px;margin: 0; color: #ffffff;">
+                  Your details:
+              </p>
+            </th>
+          </tr>
+          <tr>
+            <th align="left" style="padding-top: 20px; padding-bottom:10px; background-color: #f7f7f7; padding-right:10px; padding-left:10px; vertical-align: baseline">
+              <p style="margin: 0; font-size: 15px; color:#000000;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;" >Name: </p>
+            </th>
+            <td colspan="2" style="font-size: 14px; padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">#AAA#
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <th align="left" style="padding-top: 20px; padding-bottom:10px; background-color: #f7f7f7; padding-right:10px; padding-left:10px; vertical-align: baseline">
+              <p style="margin: 0; font-size: 15px; color:#000000;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;" >Address:
+              </p>
+            </th>
+            <td colspan="2" style="font-size: 14px; padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">#BBB#
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <th align="left" style="padding-top: 20px; padding-bottom:10px; background-color: #f7f7f7; padding-right:10px; padding-left:10px; vertical-align: baseline">
+            <p style="margin: 0; font-size: 15px; color:#000000;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;" >  Email:
+            </p>
+            </th>
+            <td colspan="2" style="font-size: 14px; padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; "><a style="color:#000 !important;">#CCC#</a>
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <th align="left" style="padding-top: 20px; padding-bottom:20px; background-color: #f7f7f7; padding-right:10px; padding-left:10px; vertical-align: baseline">
+              <p style="margin: 0; font-size: 15px; color:#000000;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;" >Phone number:
+              </p>
+          </th>
+            <td colspan="2" style="font-size: 14px; padding-top: 20px;padding-bottom: 20px;padding-left: 10px;padding-right: 10px;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">#DDD#
+              </p>
+            </td>
+          </tr>
+          <tr width="100%" align="left">
+            <th width="33%" style="background-color: #ff0c99 ;color:#555555;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;    padding-top:12px;padding-bottom:12px;padding-right:10px; padding-left:10px; vertical-align: baseline" align="left">
+              <p style="font-size: 15px;line-height: 1.2;word-break: break-word;mso-line-height-alt: 17px;margin: 0; color: #ffffff;">
+              Your current supply details:
+              </p>
+            </th>
+            <th width="33%" align="left" style="background-color: #ff0c99;font-size: 15px;line-height: 1.2;word-break: break-word;mso-line-height-alt: 17px;margin: 0; color: #ffffff; padding: 10px;padding-top:12px;padding-bottom:12px;font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+              <p style="font-size: 15px;line-height: 1.2;word-break: break-word;mso-line-height-alt: 17px;margin: 0; color: #ffffff;">
+                Gas
+              </p>
+            </th>
+            <th width="33%" align="left" style="background-color: #ff0c99;font-size: 15px;line-height: 1.2;word-break: break-word;mso-line-height-alt: 17px;margin: 0; color: #ffffff; padding: 10px;padding-top:12px;padding-bottom:12px;font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+              <p style="font-size: 15px;line-height: 1.2;word-break: break-word;mso-line-height-alt: 17px;margin: 0; color: #ffffff;">
+                Electricity
+            </p>
+          </th>
+          </tr>
+          <tr>
+            <th align="left" style="padding-top: 20px; padding-bottom:10px; background-color: #f7f7f7; padding-right:10px; padding-left:10px; vertical-align: baseline">
+              <p style="margin: 0; font-size: 15px; color:#000000;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;" >Supplier name:
+              </p>
+            </th>
+            <td style="font-size: 14px; padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">#EEE#
+              </p>
+            </td>
+            <td style="font-size: 14px; padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;">
+
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">#FTP#
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <th align="left" style="padding-top: 20px; padding-bottom:10px; background-color: #f7f7f7; padding-right:10px; padding-left:10px; vertical-align: baseline">
+              <p style="margin: 0; font-size: 15px; color:#000000;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;" >Payment method:
+              </p>
+            </th>
+            <td style="font-size: 14px; padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0;">    #GGG#
+              </p>
+            </td>
+            <td style="font-size: 14px; padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">    #HHH#
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <th align="left" style="padding-top: 20px; padding-bottom:10px; background-color: #f7f7f7; padding-right:10px; padding-left:10px; vertical-align: baseline">
+              <p style="margin: 0; font-size: 15px; color:#000000;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;" >
+               Spend per year:
+             </p>
+            </th>
+            <td style="font-size: 14px; padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">    #III#
+              </p>
+            </td>
+            <td style="font-size: 14px; padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">   #JJJ#
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <th align="left" style="padding-top: 20px; padding-bottom:10px; background-color: #f7f7f7; padding-right:10px; padding-left:10px; vertical-align: baseline">
+              <p style="margin: 0; font-size: 15px; color:#000000;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;" >Usage per year:
+              </p>
+            </th>
+            <td style="padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;font-size: 14px;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">   #AAAA#
+              </p>
+            </td>
+            <td colspan="2" style="font-size: 14px; padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">  #LLL#
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <th align="left" style="padding-top: 20px; padding-bottom:20px; background-color: #f7f7f7; padding-right:10px; padding-left:10px; vertical-align: baseline">
+              <p style="margin: 0; font-size: 15px; color:#000000;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;" >Supply address:
+              </p>
+            </th>
+            <td colspan="2" style="font-size: 14px; padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; "> #MMM#
+              </p>
+            </td>
+
+          </tr>
+          <tr width="100%" style="border:0px solid #ccc; ">
+            <th width="33%" style="background-color: #ff0c99 ;color:#555555;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;    padding-top:12px;padding-bottom:12px;padding-right:10px; padding-left:10px; vertical-align: baseline" align="left">
+              <p style="font-size: 15px;line-height: 1.2;word-break: break-word;mso-line-height-alt: 17px;margin: 0; color: #ffffff; ">
+                Your new supplier and tariff details:
+              </p>
+            </th>
+            <th width="33%" align="left" style="background-color: #ff0c99;font-size: 15px;line-height: 1.2;word-break: break-word;mso-line-height-alt: 17px;margin: 0; color:   #ffffff; padding: 10px;padding-right: 10px;padding-top:12px;padding-bottom:12px;font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+              <p style="font-size: 15px;line-height: 1.2;word-break: break-word;mso-line-height-alt: 17px;margin: 0; color: #ffffff;">
+                Gas
+              </p>
+            </th>
+            <th width="33%" align="left" style="background-color: #ff0c99;font-size: 15px;line-height: 1.2;word-break: break-word;mso-line-height-alt: 17px;margin: 0; color: #ffffff; padding: 10px;padding-top:12px;padding-bottom:12px;font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+              <p style="font-size: 15px;line-height: 1.2;word-break: break-word;mso-line-height-alt: 17px;margin: 0; color: #ffffff;">
+                Electricity
+              </p>
+            </th>
+          </tr>
+          <tr>
+            <th align="left" style="padding-top: 20px; padding-bottom:10px; background-color: #f7f7f7; padding-right:10px; padding-left:10px; vertical-align: baseline">
+              <p style="margin: 0; font-size: 15px; color:#000000;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;" >Supplier name:
+              </p>
+            </th>
+            <td style="font-size: 14px; padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">    #NNN#
+              </p>
+            </td>
+            <td style="font-size: 14px; padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">   #OOO#
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <th align="left" style="padding-top: 20px; padding-bottom:10px; background-color: #f7f7f7; padding-right:10px; padding-left:10px; vertical-align: baseline">
+              <p style="margin: 0; font-size: 15px; color:#000000;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;" >Tariff name:
+              </p>
+            </th>
+            <td colspan="2" style="font-size: 14px; padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">    #QQQ#
+              </p>
+            </td>
+
+          </tr>
+          <tr>
+            <th align="left" style="padding-top: 20px; padding-bottom:10px; background-color: #f7f7f7; padding-right:10px; padding-left:10px; vertical-align: baseline">
+              <p style="margin: 0; font-size: 15px; color:#000000;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;" >Tariff type:
+              </p>
+            </th>
+            <td style="font-size: 14px; padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">    #RRR#
+              </p>
+            </td>
+            <td colspan="2" style="font-size: 14px; padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">    #SSS#
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <th align="left" style="padding-top: 20px; padding-bottom:10px; background-color: #f7f7f7; padding-right:10px; padding-left:10px; vertical-align: baseline">
+              <p style="margin: 0; font-size: 15px; color:#000000;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;" >Payment method:
+              </p>
+            </th>
+            <td colspan="2" style="font-size: 14px; padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">    #TTT#
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <th align="left" style="padding-top: 20px; padding-bottom:10px; background-color: #f7f7f7; padding-right:10px; padding-left:10px; vertical-align: baseline">
+              <p style="margin: 0; font-size: 15px; color:#000000;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;" >Unit rate:
+              </p>
+            </th>
+            <td style="font-size: 14px; padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">    #VVV#
+              </p>
+            </td>
+            <td colspan="2" style="font-size: 14px; padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">    #WWW#
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <th align="left" style="padding-top: 20px; padding-bottom:10px; background-color: #f7f7f7; padding-right:10px; padding-left:10px; vertical-align: baseline">
+              <p style="margin: 0; font-size: 15px; color:#000000;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;" >Night rate:
+              </p>
+            </th>
+            <td style="font-size: 14px; padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">
+                N/A
+              </p>
+            </td>
+            <td style="font-size: 14px; padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">
+              #YYY#
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <th align="left" style="padding-top: 20px; padding-bottom:10px; background-color: #f7f7f7; padding-right:10px; padding-left:10px; vertical-align: baseline">
+              <p style="margin: 0; font-size: 15px; color:#000000;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;" >Standing charge:
+              </p>
+            </th>
+            <td style="font-size: 14px; padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">   #ZZZ#
+              </p>
+            </td>
+            <td style="font-size: 14px;padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">    #ABC#
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <th align="left" style="padding-top: 20px; padding-bottom:10px; background-color: #f7f7f7; padding-right:10px; padding-left:10px; vertical-align: baseline">
+              <p style="margin: 0; font-size: 15px; color:#000000;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;" >Tariff ends on:
+              </p>
+            </th>
+            <td style="font-size: 14px;padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">    #DEF#
+              </p>
+            </td>
+            <td style="font-size: 14px;padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">    #GHI#
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <th align="left" style="padding-top: 20px; padding-bottom:10px; background-color: #f7f7f7; padding-right:10px; padding-left:10px; vertical-align: baseline">
+              <p style="margin: 0; font-size: 15px; color:#000000;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;" >Price guaranteed until:
+              </p>
+            </th>
+            <td style="font-size: 14px;padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">    #JKL#
+              </p>
+            </td>
+            <td style="font-size: 14px;padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">    #MNO#
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <th align="left" style="padding-top: 20px; padding-bottom:10px; background-color: #f7f7f7; padding-right:10px; padding-left:10px; vertical-align: baseline">
+              <p style="margin: 0; font-size: 15px; color:#000000;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;" >Exit fees:
+              </p>
+            </th>
+            <td style="font-size: 14px;padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">    #PQR#
+              </p>
+            </td>
+            <td colspan="2" style="font-size: 14px;padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">    #STU#
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <th align="left" style="padding-top: 20px; padding-bottom:10px; background-color: #f7f7f7; padding-right:10px; padding-left:10px; vertical-align: baseline">
+              <p style="margin: 0; font-size: 15px; color:#000000;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;" >Discounts and additional charges:
+              </p>
+            </th>
+            <td colspan="2" style="font-size: 14px;padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">    #TTT#
+              </p>
+            </td>
+          </tr>
+          <tr>
+              <th align="left" style="padding-top: 20px; padding-bottom:20px; background-color: #f7f7f7; padding-right:10px; padding-left:10px; vertical-align: baseline">
+                <p style="margin: 0; font-size: 15px; color:#000000;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;" >Additional products /services included:
+                </p>
+              </th>
+              <td colspan="2" style="font-size: 14px;padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;">
+                <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">#123#
+                </p>
+              </td>
+          </tr>
+          <tr width="100%">
+              <th width="33%" style="background-color: #ff0c99;line-height: 1.2;word-break: break-word;mso-line-height-alt: 17px;margin: 0; color: #ffffff; padding: 10px;padding-top:12px;padding-bottom:12px;font-family: Arial, Helvetica Neue, Helvetica, sans-serif;" align="left">
+                <p style="font-size: 15px;line-height: 1.2;word-break: break-word;mso-line-height-alt: 17px;margin: 0; color: #ffffff;">Estimated use for you on this tariff:
+                </p>
+              </th>
+              <th width="33%" style="background-color: #ff0c99;font-size: 15px;line-height: 1.2;word-break: break-word;mso-line-height-alt: 17px;margin: 0; color: #ffffff; padding: 10px;padding-top:12px;padding-bottom:12px;font-family: Arial, Helvetica Neue, Helvetica, sans-serif;" align="left">
+                <p style="font-size: 15px;line-height: 1.2;word-break: break-word;mso-line-height-alt: 17px;margin: 0; color: #ffffff;">Gas
+                </p>
+              </th>
+              <th width="33%" style="background-color: #ff0c99;font-size: 15px;line-height: 1.2;word-break: break-word;mso-line-height-alt: 17px;margin: 0; color: #ffffff; padding: 10px;padding-top:12px;padding-bottom:12px;font-family: Arial, Helvetica Neue, Helvetica, sans-serif;" align="left">
+                <p style="font-size: 15px;line-height: 1.2;word-break: break-word;mso-line-height-alt: 17px;margin: 0; color: #ffffff;">Electricity
+                </p>
+              </th>
+          </tr>
+          <tr>
+              <th align="left" style="padding-top: 20px; padding-bottom:10px; background-color: #f7f7f7; padding-right:10px; padding-left:10px; vertical-align: baseline">
+                <p style="margin: 0; font-size: 15px; color:#000000;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;" >Your annual consumption:
+                </p>
+              </th>
+              <td style="font-size: 14px; padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;">
+                <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">    #001#
+                </p>
+              </td>
+              <td style="font-size: 14px; padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;">
+                <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">
+                 #002#
+                </p>
+              </td>
+          </tr>
+          <tr>
+            <th align="left" style="padding-top: 20px; padding-bottom:10px; background-color: #f7f7f7; padding-right:10px; padding-left:10px; vertical-align: baseline">
+              <p style="margin: 0; font-size: 15px; color:#000000;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;" >Estimated annual cost:
+              </p>
+            </th>
+            <td style="font-size: 14px; padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">
+                #003#
+              </p>
+            </td>
+            <td style="font-size: 14px; padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">
+                #004#
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <th align="left" style="padding-top: 20px; padding-bottom:20px; background-color: #f7f7f7; padding-right:10px; padding-left:10px; vertical-align: baseline">
+              <p style="margin: 0; font-size: 15px; color:#000000;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;" >Estimated monthly cost:
+              </p>
+            </th>
+            <td style="padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;">
+              <p style="font-size: 14px; line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">
+                #005#
+              </p>
+            </td>
+            <td style="font-size: 14px; padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;">
+                <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">#006#
+                </p>
+            </td>
+          </tr>
+          <tr style="border:0px solid #ccc; background-color: #ff0c99 ">
+            <th colspan="10" align="left" style="color:#555555;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;      line-height:1.2;padding-top:20px;padding-right:10px;padding-bottom:20px;padding-left:10px;">
+              <p style="font-size: 15px;line-height: 1.2;word-break: break-word;mso-line-height-alt: 17px;margin: 0; color: #ffffff;">Additional information:
+              </p>
+            </th>
+          </tr>
+          <tr colspan="4">
+            <th align="left" style="padding-top: 20px; padding-bottom:10px; background-color: #f7f7f7; padding-right:10px; padding-left:10px; vertical-align: baseline">
+              <p style="margin: 0; font-size: 15px; color:#000000;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;" >Region:
+              </p>
+            </th>
+            <td colspan="2" style="font-size: 14px; padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">#region#
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <th align="left" style="padding-top: 20px; padding-bottom:10px; background-color: #f7f7f7; padding-right:10px; padding-left:10px; vertical-align: baseline">
+              <p style="margin: 0; font-size: 15px; color:#000000;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;" >Tariff information:
+              </p>
+            </th>
+            <td colspan="2" style="font-size: 14px; padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">#tariffinfo#
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <th align="left" style="padding-top: 20px; padding-bottom:10px; background-color: #f7f7f7; padding-right:10px; padding-left:10px; vertical-align: baseline">
+              <p style="margin: 0; font-size: 15px; color:#000000;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;" >Special offers:
+              </p>
+            </th>
+            <td colspan="2" style="font-size: 14px; padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+              <p style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; "> #specialoffers#
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <th align="left" style="padding-top: 20px; padding-bottom:20px; background-color: #f7f7f7; padding-right:10px; padding-left:10px; vertical-align: baseline">
+              <p style="margin: 0; font-size: 15px; color:#000000;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;line-height:1.2;" >Supplier contact details:
+              </p>
+            </th>
+            <td colspan="2" style="padding-top: 20px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;font-family: Arial, Helvetica Neue, Helvetica, sans-serif;font-size: 14px;">
+              <p id="contactsupply" style="line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0; ">#suppliercontact#
+            </p>
+          </td>
+          </tr>
+        </tbody>
+      </table>
+      <tr>
+        <td align="left" style="padding-top:10px;padding-right:10px;padding-bottom: 20px;padding-left:10px;">
+          <p style="color: #ff0c99;  font-size: 16px;  line-height: 1.2; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;margin: 0;">
+            <strong>What happens next</strong>
+          </p>
+        </td>
+      </tr>
+      	<tr>
+      	    <td align="left" style="padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;">
+	          	<p style="color: #000000;  font-size: 15px;  line-height: 1.2; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;margin: 0;">#nextsteps#</p>
+	        </td>
+        </tr>
+      <tr>
+        <td align="left" style="padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;">
+          <p style="font-size: 15px; line-height: 1.2; color: #000000; font-family: Arial, Helvetica Neue, Helvetica, sans-serif; mso-line-height-alt: 17px;margin: 0;">Please see our <a href="https://www.switchboo.com/policys/termsandconditions.php" style="text-decoration:none;"><strong style="font-size: 15px; color: #ff0c99;">Terms and Conditions</strong></a> here.</p>
+        </td>
+      </tr>
+      <tr>
+        <td align="left" style="padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;">
+          <p style="font-size: 15px; line-height: 1.2; color: #000000; font-family: Arial, Helvetica Neue, Helvetica, sans-serif; mso-line-height-alt: 17px;margin: 0;">Our <a style="text-decoration:none;" href="https://www.switchboo.com/help/" rel="noopener" target="_blank"><strong style="font-size: 16px; color: #ff0c99;">Help</strong></a> page should have the answer to your question but if you still have a query about your switch or wish to cancel please email our team on <a><strong style="font-size: 16px; color: #ff0c99;">hello@switchboo.com</strong></a></p>
+        </td>
+      </tr>
+      <tr>
+        <td align="left" style="padding-top:10px;padding-right:10px;padding-bottom:30px;padding-left:10px;">
+           <p style="font-size: 15px; line-height: 1.2; color: #000000; font-family: Arial, Helvetica Neue, Helvetica, sans-serif; mso-line-height-alt: 17px;margin: 0;">Switchboo Ltd, Registered office address: Kemp House, <a style="color:#000 !important;">160 City Road, London, EC1V 2NX.</a>
+           </p>
+        </td>
+      </tr>
+    </td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>
